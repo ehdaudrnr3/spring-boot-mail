@@ -1,14 +1,14 @@
 # Spring boot mail example
 
-**스프링 부트 메일전송 예제
+** 스프링 부트 메일전송 예제
 
-## 사용법
+## API
 
 * `/mail/google` : 구글 메일로 전송 
 * `/mail/naver` : 네이버 메일로 전송
 * `/mail/daum` : 다음 메일로 전송
 
-## 사용기술
+## OPENSOURCE
 
 * spring-boot-starter-mail JavaMailSender, javaMailSenderImpl을 사용하기 위한 Dependency
 * spring-boot-starter-web MVC를 사용하기 위한 Dependency
