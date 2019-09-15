@@ -1,6 +1,6 @@
 # Spring boot mail example
 
-** 스프링 부트 메일전송 예제
+### 스프링 부트 메일전송 예제
 
 ## API
 
