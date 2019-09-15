@@ -10,10 +10,13 @@
 
 ## OPENSOURCE
 
-* spring-boot-starter-mail JavaMailSender, javaMailSenderImpl을 사용하기 위한 Dependency
-* spring-boot-starter-web MVC를 사용하기 위한 Dependency
-* spring-boot-starter-test 스프링 테스트를 위한 Dependency
+* [spring-boot-starter-mail] : JavaMailSender, javaMailSenderImpl을 사용하기 위한 Dependency
+* [spring-boot-starter-web] : MVC를 사용하기 위한 Dependency
+* [spring-boot-starter-test] : 스프링 테스트를 위한 Dependency
 
 ## 라이센스
 
 MIT
+
+## README.MD Reference
+* https://github.com/gaeulbyul/anion : 가을별님 ReadMe.md 참고
