@@ -4,15 +4,15 @@
 
 ## 사용법
 
-* `/mail`: 
-* `/list
-* `/cap
+* `/mail/google` : 구글 메일로 전송 
+* `/mail/naver` : 네이버 메일로 전송
+* `/mail/daum` : 다음 메일로 전송
 
 ## 사용기술
 
-*spring-boot-starter-mail 
-*spring-boot-starter-web
-*spring-boot-starter-test
+* spring-boot-starter-mail JavaMailSender, javaMailSenderImpl을 사용하기 위한 Dependency
+* spring-boot-starter-web MVC를 사용하기 위한 Dependency
+* spring-boot-starter-test 스프링 테스트를 위한 Dependency
 
 ## 라이센스
 
